@@ -13,4 +13,4 @@ Our browser is built with simplicity and performance in mind. It is extremely li
 
 You can download the latest version of Open Lightweight Browser from our GitHub releases page:
 
-* [v1.0.0](https://github.com/Codemaster-AR/open.leightweight.browser.github.io/releases/tag/v1.0.0)
+* [https://github.com/Codemaster-AR/open.leightweight.browser.github.io/releases/tag/v1.0.0](https://github.com/Codemaster-AR/open.leightweight.browser.github.io/releases/tag/v1.0.0)
