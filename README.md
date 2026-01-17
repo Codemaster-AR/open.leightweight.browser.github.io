@@ -1,4 +1,3 @@
-e is a rewritten GitHub README in a more standard and professional format:
 
 # Open Lightweight Browser
 =========================
